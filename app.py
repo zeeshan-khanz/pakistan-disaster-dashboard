@@ -72,7 +72,7 @@ st.sidebar.markdown("Select your risk assessment type:")
 
 option = st.sidebar.selectbox(
     " Choose Analysis:",
-    [" Home Dashboard", " Flood Risk", " Earthquake Risk", " Rain Prediction", " Complete Report"]
+    [" Home Dashboard", " Flood Risk", " Earthquake Risk", "Rain Prediction", " Complete Report"]
 )
 
 # Add some sidebar info
